@@ -323,3 +323,8 @@ h2 {
         width: 0 !important;
         height: 0 !important;
     }
+    .hero-date a {
+  color: inherit !important;
+  text-decoration: none !important;
+  pointer-events: none;
+}
